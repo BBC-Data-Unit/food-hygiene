@@ -1,5 +1,7 @@
 # Delays in food hygiene inspections a 'serious public health issue' 
 
+![](https://github.com/BBC-Data-Unit/food-hygiene/blob/main/data/Delays%20in%20food%20hygiene%20inspections%20a%20serious%20public%20health%20issue.png)
+
 In July 2024 we [revealed](https://www.bbc.co.uk/news/articles/c1rr1qqqny0o) that one in five restaurants and takeaways had not been seen by food inspectors for more than two years.
 
 ## Methodology
