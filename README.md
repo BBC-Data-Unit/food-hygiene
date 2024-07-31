@@ -4,7 +4,22 @@ In July 2024 we [revealed](https://www.bbc.co.uk/news/articles/c1rr1qqqny0o) tha
 
 ## Methodology
 
+We used Food Standards Agency (FSA) open data on the food hygiene ratings and status of every establishment in England, Wales, Northern Ireland and Scotland at https://ratings.food.gov.uk/open-data.
+
+We downloaded data from every local authority as of April 10 2024. This was filtered to establishments in four categories: Restaurant/Cafe/Canteen; Pub/bar/nightclub; Takeaway/sandwich shop; and Mobile caterer. 
+
+The data was cleaned to remove a small percentage (<1%) of duplicate entries: where an establishment with the same name and latitude, or the same name and postcode, appeared more than once in the same authority’s data, the row with the most recent inspection date was retained and the other removed. 
+
+Each establishment was classified to determine whether it had been inspected since January 1 2022 (i.e. within the last two years and three months) or not, or whether it was still awaiting inspection. 
+
+A second set of data was downloaded on April 25 focusing on wholesale outlets. This was filtered to establishments in three categories: Manufacturers/packers; Importers/Exporters; and Distributors/Transporters. 
+
+*Note: some establishments will have since been inspected, added, or removed since the data was compiled.*
+
+
 ## Get the data
+
+* [FSA data API](https://ratings.food.gov.uk/open-data)
 
 ## Partner usage
 
