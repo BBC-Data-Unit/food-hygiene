@@ -9,7 +9,7 @@ In July 2024 we [revealed](https://www.bbc.co.uk/news/articles/c1rr1qqqny0o) tha
 ## Partner usage
 
 * Banbury FM: [Crisis in food safety](https://banburyfm.com/news/crisis-in-food-safety/) 
-* BBC Lincolnshire: [Councils among worst for food hygiene inspections](Councils among worst for food hygiene inspections)
+* BBC Lincolnshire: [Councils among worst for food hygiene inspections]([Councils among worst for food hygiene inspections](https://www.bbc.co.uk/news/articles/c147jp874nqo)
 * Belfast Telegraph: [Concern for food safety in NI as one in five UK eateries have not been inspected in two years](https://www.belfasttelegraph.co.uk/business/food-drink-hospitality/concern-for-food-safety-in-ni-as-one-in-five-uk-eateries-have-not-been-inspected-in-two-years/a844310017.html)
 * Grimsby Telegraph: [Half of North East Lincolnshire's food outlets have not had a food hygiene inspection in two years](https://www.grimsbytelegraph.co.uk/news/grimsby-news/half-north-east-lincolnshires-food-9444120)
 * Hull Daily Mail: [](https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/hull-one-best-authorities-country-9444982)
