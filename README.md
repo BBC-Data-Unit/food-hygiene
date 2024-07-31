@@ -6,7 +6,7 @@ In July 2024 we [revealed](https://www.bbc.co.uk/news/articles/c1rr1qqqny0o) tha
 
 We used Food Standards Agency (FSA) open data on the food hygiene ratings and status of every establishment in England, Wales, Northern Ireland and Scotland at https://ratings.food.gov.uk/open-data.
 
-We downloaded data from every local authority as of April 10 2024. This was filtered to establishments in four categories: Restaurant/Cafe/Canteen; Pub/bar/nightclub; Takeaway/sandwich shop; and Mobile caterer. 
+We downloaded data from every local authority as of April 10 2024. This was filtered to establishments in four categories: Restaurant/Cafe/Canteen; Pub/bar/nightclub; Takeaway/sandwich shop; and Mobile caterer (see notebooks below). 
 
 The data was cleaned to remove a small percentage (<1%) of duplicate entries: where an establishment with the same name and latitude, or the same name and postcode, appeared more than once in the same authority’s data, the row with the most recent inspection date was retained and the other removed. 
 
@@ -20,6 +20,18 @@ A second set of data was downloaded on April 25 focusing on wholesale outlets. T
 ## Get the data
 
 * [FSA data API](https://ratings.food.gov.uk/open-data)
+* [URLs of data files](https://github.com/BBC-Data-Unit/food-hygiene/blob/main/data/foodHygieneURLs.xlsx) (generated from IDs)
+* [Ratings for wholesalers since 2022 with analysis](https://github.com/BBC-Data-Unit/food-hygiene/blob/main/data/FSAwholesalers_dedupedAPR25_ANALYSIS.xlsx)
+
+*The ratings data for other establishments is too big to host on GitHub*.
+
+## Code
+
+Scripts were written in Python to loop through and download the data files for each local authority, filter and analyse. OpenRefine was also used to identify potential duplication in the FSA dataset - the steps have been exported as a JSON file.
+
+* Python notebook: [Analysing food hygiene data](https://github.com/BBC-Data-Unit/food-hygiene/blob/main/code/FoodHygieneProject.ipynb)
+* Python notebook: [Analysing food hygiene data: wholesalers](https://github.com/BBC-Data-Unit/food-hygiene/blob/main/code/FoodHygieneProject_wholesalers.ipynb)
+* JSON: [Checking for duplicates in OpenRefine](https://github.com/BBC-Data-Unit/food-hygiene/blob/main/code/food%20safety%20-%20OpenRefine%20checks.json) - an [explanation is in the Readme](https://github.com/BBC-Data-Unit/food-hygiene/blob/main/code/readme.md)
 
 ## Partner usage
 
