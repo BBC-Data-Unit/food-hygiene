@@ -47,6 +47,7 @@ Scripts were written in Python to loop through and download the data files for e
 * Grimsby Telegraph: [Half of North East Lincolnshire's food outlets have not had a food hygiene inspection in two years](https://www.grimsbytelegraph.co.uk/news/grimsby-news/half-north-east-lincolnshires-food-9444120)
 * Hull Daily Mail: [Hull one of the best councils in the country at regular food hygiene inspections](https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/hull-one-best-authorities-country-9444982)
 * iNews: [Food hygiene ratings mapped: The areas with the worst inspection backlogs](https://inews.co.uk/news/consumer/food-hygiene-ratings-mapped-areas-inspection-backlogs-3197836)
+* Leicestershire Live: [Hundreds of Leicestershire venues see two-year delay in vital food hygiene inspections](https://uk.news.yahoo.com/hundreds-leicestershire-venues-see-two-094646307.html)
 * Kent Online: [Figures show Folkestone and Hythe, Canterbury and Dover councils struggling to inspect food businesses within two years](https://www.kentonline.co.uk/kent/news/serious-public-health-issue-as-1-in-10-kent-restaurants-ov-310608/)
 * KL1 Radio: [How many restaurants and takeaways in our area have had recent hygiene checks?](https://kl1radio.co.uk/how-many-restaurants-and-takeaways-in-our-area-have-had-recent-hygiene-checks/)
 * Lincs Online: [Which Lincolnshire councils have biggest backlog in food hygiene inspection?](https://www.lincsonline.co.uk/skegness/backlog-in-food-hygiene-inspections-is-a-serious-public-hea-9376602/)
